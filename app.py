@@ -8,7 +8,7 @@ from flask import jsonify
 from flask import Flask
 
 __author__ = "sglukhov"
-__version__ = "0.3.0"
+__version__ = "0.3.1"
 
 app = Flask(__name__)
 URL = 'http://www.cbr.ru/scripts/XML_daily.asp?date_req='
